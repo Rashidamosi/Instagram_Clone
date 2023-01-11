@@ -220,7 +220,7 @@ header{
 /* Right section */
 .right-setion{
     position: fixed;
-    right: 480px;
+    right: 280px;
 }
 @media only screen and (max-width: 1200px) {
     .right-setion{
